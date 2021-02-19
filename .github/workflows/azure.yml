@@ -1,10 +1,10 @@
 name: AzureAPI
 
 env:
-  container_registry: azureapiflask.azurecr.io
-  container_registry_name: azureapiflask.azurecr.io/azureapi/flask:latest
-  resourceGroup: AZ-400
-  appName: azureapiflask1992
+  container_registry: mmacr19022021.azurecr.io
+  container_registry_name: mmacr19022021.azurecr.io/azureapi/flask:latest
+  resourceGroup: Az-400
+  appName: azureapiflask1212
 
 on:
   push:
